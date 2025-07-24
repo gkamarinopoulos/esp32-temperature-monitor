@@ -44,11 +44,20 @@ It serves a live webpage with temperature readings, alert system, interactive ch
 
 ---
 
-## 🖥️ Web Interface Preview
+## 📷 Web Interface
 
-![Web Dashboard Screenshot](images/screenshot.png)
+Here is a live view of the ESP32 web dashboard:
 
-*(replace with your own screenshot if available)*
+![Screenshot](images/screenshot.png)
+
+---
+
+## 🧭 Circuit Diagram
+
+The following schematic illustrates the wiring:
+
+![Circuit](images/circuit.png)
+
 
 ---
 
