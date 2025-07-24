@@ -83,3 +83,5 @@ The following schematic illustrates the wiring:
 ├── circuit.png # Circuit schematic image
 ├── screenshot.png # Web interface screenshot
 └── .gitkeep # Keeps the folder tracked in Git
+
+---
