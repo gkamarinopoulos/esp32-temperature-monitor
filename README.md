@@ -72,16 +72,15 @@ The following schematic illustrates the wiring:
   - DallasTemperature
 
 ---
+## 📁 Project Structure
 
-## 📂 Project Structure
-
-├── ESP32-C3andThermistorCode.ino # Main Arduino source code
-├── LICENSE # MIT License file
-├── README.md # Project description and usage
-├── .gitignore # Git ignore rules
+```text
+.
+├── ESP32-C3andThermistorCode.ino     # Main Arduino source code
+├── LICENSE                           # MIT License file
+├── README.md                         # Project documentation
+├── .gitignore                        # Git ignore rules
 └── images/
-├── circuit.png # Circuit schematic image
-├── screenshot.png # Web interface screenshot
-└── .gitkeep # Keeps the folder tracked in Git
-
----
+    ├── circuit.png                   # Circuit schematic
+    ├── screenshot.png                # Web interface screenshot
+    └── .gitkeep                      # Keeps the folder tracked by Git
