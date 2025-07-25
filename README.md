@@ -43,21 +43,23 @@ It serves a live webpage with temperature readings, alert system, interactive ch
 - Users can monitor the temperature chart and log history remotely by visiting the ESP32's IP address.
 
 ---
+## 🖧 Schematic
 
-## 📷 Web Interface
-
-Here is a live view of the ESP32 web dashboard:
-
-![Screenshot](images/screenshot.png)
+![Schematic](images/esp_tempsensor_circuit_kicad.png)
 
 ---
-
 ## 🧭 Circuit Diagram
 
 The following schematic illustrates the wiring:
 
 ![Circuit](images/circuit.png)
 
+---
+## 📷 Web Interface
+
+Here is a live view of the ESP32 web dashboard:
+
+![Screenshot](images/screenshot.png)
 
 ---
 
