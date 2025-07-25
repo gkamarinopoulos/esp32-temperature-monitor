@@ -30,7 +30,7 @@ It serves a live webpage with temperature readings, alert system, interactive ch
 | • Signal (Gray)   | `GPIO19`       | Controls the buzzer                                                  |
 | • VCC (Red)       | `5V`           | Connect to 5V output of ESP32 (if available)                          |
 | • GND (Black)     | `GND`          | Ground connection                                                    |
-| • Pull-down       | `GPIO19 → GND` | Add **1 kΩ resistor** between GPIO19 and GND                         |
+| • Pull-down       | `GPIO19 → GND` | Add **1 kΩ pull-down resistor** between GPIO19 and GND                         |
 
 ---
 
