@@ -78,11 +78,13 @@ Here is a live view of the ESP32 web dashboard:
 
 ```text
 .
-├── ESP32-C3andThermistorCode.ino     # Main Arduino source code
-├── LICENSE                           # MIT License file
-├── README.md                         # Project documentation
-├── .gitignore                        # Git ignore rules
+├── ESP32-C3andThermistorCode.ino           # Main Arduino source code
+├── LICENSE                                 # MIT License file
+├── README.md                               # Project documentation
+├── .gitignore                              # Git ignore rules
 └── images/
-    ├── circuit.png                   # Circuit schematic
-    ├── screenshot.png                # Web interface screenshot
-    └── .gitkeep                      # Keeps the folder tracked by Git
+    ├── esp_tempsensor_circuit_kicad.png    # Circuit in KiCad
+    ├── circuit.png                         # Circuit schematic
+    ├── screenshot.png                      # Web interface screenshot
+    └── .gitkeep                            # Keeps the folder tracked by Git
+    
